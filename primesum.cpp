@@ -56,6 +56,6 @@ for(int i=0;i<selena.size();i++){
 cout<<selena[i];
 }
 return 0;
-*/
 }
+*/
 
